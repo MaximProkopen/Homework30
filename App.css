@@ -1,0 +1,90 @@
+.container {
+    margin: 0 auto;
+    width: 840px;
+    position: relative;
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.822);
+  }
+  .level {
+    position: absolute;
+    left: 70px;
+    top: 380px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10%;
+  }
+  .all-down {
+    width: 820px;
+    margin: 0 auto;
+  }
+  .range-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .range-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .range-one,
+  .range-two span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+  .author-img {
+    text-align: center;
+  }
+  .author {
+    vertical-align: top;
+    padding-left: 10px;
+    font-family: "Plus Jakarta Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+    color: #9c9ca4;
+  }
+  .rating-img {
+    text-align: center;
+  }
+  .img4 {
+    vertical-align: middle;
+  }
+  .rating {
+    vertical-align: top;
+    padding-left: 10px;
+  }
+  .students-img {
+    text-align: center;
+  }
+  .students {
+    vertical-align: top;
+    padding-left: 10px;
+  }
+  .img5 {
+    vertical-align: middle;
+  }
+  .modules-img {
+    text-align: center;
+  }
+  .modules {
+    vertical-align: top;
+    padding-left: 10px;
+  }
+  .img3 {
+    vertical-align: middle;
+  }
+  .duration-img {
+    text-align: center;
+  }
+  .duration {
+    vertical-align: top;
+    padding-left: 10px;
+  }
+  .img2 {
+    vertical-align: middle;
+  }
